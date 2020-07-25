@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/robo-frineds-clone/static/css/main.e53200a2.chunk.css",
+    "main.js": "/robo-frineds-clone/static/js/main.a7b8661d.chunk.js",
+    "main.js.map": "/robo-frineds-clone/static/js/main.a7b8661d.chunk.js.map",
+    "runtime-main.js": "/robo-frineds-clone/static/js/runtime-main.ab148051.js",
+    "runtime-main.js.map": "/robo-frineds-clone/static/js/runtime-main.ab148051.js.map",
+    "static/js/2.6be0f9b5.chunk.js": "/robo-frineds-clone/static/js/2.6be0f9b5.chunk.js",
+    "static/js/2.6be0f9b5.chunk.js.map": "/robo-frineds-clone/static/js/2.6be0f9b5.chunk.js.map",
+    "index.html": "/robo-frineds-clone/index.html",
+    "precache-manifest.8d8b69446413e88eb3576d9b18bc152e.js": "/robo-frineds-clone/precache-manifest.8d8b69446413e88eb3576d9b18bc152e.js",
+    "service-worker.js": "/robo-frineds-clone/service-worker.js",
+    "static/css/main.e53200a2.chunk.css.map": "/robo-frineds-clone/static/css/main.e53200a2.chunk.css.map",
+    "static/js/2.6be0f9b5.chunk.js.LICENSE.txt": "/robo-frineds-clone/static/js/2.6be0f9b5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robo-frineds-clone/static/media/get_schwifty.4b4420cf.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab148051.js",
+    "static/js/2.6be0f9b5.chunk.js",
+    "static/css/main.e53200a2.chunk.css",
+    "static/js/main.a7b8661d.chunk.js"
+  ]
+}
