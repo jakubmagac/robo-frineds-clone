@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4b9959043ad30c87c8b79e4777f3a7a",
+    "revision": "9620a4f8fe0c56177458096dae332a26",
     "url": "/robo-frineds-clone/index.html"
   },
   {
-    "revision": "2b71f605dfc6ba4f8fa3",
-    "url": "/robo-frineds-clone/static/css/main.e53200a2.chunk.css"
+    "revision": "cb88ebd2810dd3b11521",
+    "url": "/robo-frineds-clone/static/css/main.2db45e12.chunk.css"
   },
   {
     "revision": "5baa0661484ed340d3ac",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robo-frineds-clone/static/js/2.6be0f9b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b71f605dfc6ba4f8fa3",
-    "url": "/robo-frineds-clone/static/js/main.a7b8661d.chunk.js"
+    "revision": "cb88ebd2810dd3b11521",
+    "url": "/robo-frineds-clone/static/js/main.d402b7a2.chunk.js"
   },
   {
     "revision": "e96da8bf58b728e62ece",
