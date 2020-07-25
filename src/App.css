@@ -3,6 +3,11 @@
   src: url('./get_schwifty.ttf');
 }
 
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
+
 h1, h2 {
   text-shadow: -2px 0 #bada55, 0 2px #bada55, 2px 0 #bada55, 0 -2px #bada55;
 }

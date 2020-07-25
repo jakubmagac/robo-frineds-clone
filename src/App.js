@@ -31,7 +31,11 @@ class App extends Component {
     const filteredChar = characters.filter(character => character.name.toLowerCase().includes(searchbar.toLowerCase()));
 
     if(this.state.characters.length === 0) {
-      return <h1>Loading</h1>
+      return (
+        <div className="App">
+          <h1 className="center">Loading</h1>
+        </div>
+      );
     }else{
       return (
         <div className="App">
