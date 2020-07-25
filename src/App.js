@@ -32,9 +32,7 @@ class App extends Component {
 
     if(this.state.characters.length === 0) {
       return (
-        <div className="App">
-          <h1 className="center">Loading</h1>
-        </div>
+        <h1 className="center">Loading</h1>
       );
     }else{
       return (
